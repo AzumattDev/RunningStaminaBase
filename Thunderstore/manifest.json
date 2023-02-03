@@ -1,0 +1,9 @@
+{
+  "name": "RunningStaminaBase",
+  "version_number": "1.0.2",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "This mod will update your base stamina by a factor of your current running skill",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
